@@ -1,4 +1,4 @@
 # Tiedostot
 Workplace Ninja User Group Finland - Jaettavat tiedostot
 
-### [Tapahtumien esitykset ja materiaalit](Tapahtumat)
+### [Tapahtumien esitysten ja materiaalit](Tapahtumat)
