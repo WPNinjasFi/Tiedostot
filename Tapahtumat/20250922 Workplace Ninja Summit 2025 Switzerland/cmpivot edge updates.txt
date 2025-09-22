@@ -1,0 +1,8 @@
+// CMPivot KQL query to show Edge Update installations from the devices
+FileContent('c:\ProgramData\Microsoft\EdgeUpdate\Log\MicrosoftEdgeUpdate.log') 
+| where content like '%[Running installer%[--msedge %'
+| project Device, Date=substring(Content,1,5), Time=substring(Content,7,14), Install=substring(Content,57,)
+| project Device, FullDate=strcat(Date,'/20',Time), Version=substring(Install,indexof(Install,'MicrosoftEdge_'))
+| project Device, FullDate, VersionChange=substring(Version,0, indexof(Version,'][--msedge'))
+| where VersionChange != ''
+| order by Device asc, FullDate asc
