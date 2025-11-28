@@ -5,7 +5,7 @@
 8:30 – 9:00 Registration and coffee
 9:00 – 9:15 Alkusanat / WPNinjasFI
 
-9:15 – 10:05 Mikko Mäkelä – Metropolia & mikro-Mikko bot
+**9:15 – 10:05 Mikko Mäkelä – Metropolia & mikro-Mikko bot**
 
 * [20251126 WPNinjasFI - Metropolia and mikro-Mikko bot - Mikko Mäkelä.pdf](20251126%20WPNinjasFI%20-%20Metropolia%20and%20mikro-Mikko%20bot%20-%20Mikko%20M%C3%A4kel%C3%A4.pdf)
 
