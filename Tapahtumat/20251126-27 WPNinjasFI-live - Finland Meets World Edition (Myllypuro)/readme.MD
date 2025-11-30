@@ -11,7 +11,7 @@
 
 **10:15 – 10:35 Ketan Kamble (EN) – Complete Device Lifecycle Automation: License Compliance + Asset Intelligence Pipeline**
 
-* Slides will be added here later.
+* [20251126 WPNinjasFI - Complete Device Lifecycle Automation  License Compliance & Device Compliance - Ketan Kamble.pdf](20251126%20WPNinjasFI%20-%20Complete%20Device%20Lifecycle%20Automation%20%20License%20Compliance%20%26%20Device%20Compliance%20-%20Ketan%20Kamble.pdf)
 
 **10:35 – 11:00 Mikko Järvinen – Oudot Windowsit**
 
@@ -70,6 +70,6 @@
 
 **15:15 – 16:00 Kent Agerlund, Morten Nilsen – Zero Trust in Real Life: From Framework to Field Experience**
 
-* Slides will be added here later.
+* [20251127 WPNinjasFI - Zero Trust in Real Life - From Framework to Field Experience - Kent Agerlund and Morten Nilsen.pdf](20251127%20WPNinjasFI%20-%20Zero%20Trust%20in%20Real%20Life%20-%20From%20Framework%20to%20Field%20Experience%20-%20Kent%20Agerlund%20and%20Morten%20Nilsen.pdf)
 
 16:00 – 16:10 SPONSOR PRIZES RAFFLE
