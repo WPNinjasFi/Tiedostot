@@ -5,4 +5,3 @@
 * [20260130 - Workplace Ninja User Group Finland - Ask Ninjas Anything Special Extended Edition.pdf](20260130%20-%20Workplace%20Ninja%20User%20Group%20Finland%20-%20Ask%20Ninjas%20Anything%20Special%20Extended%20Edition.pdf)
 * [Search_Keyword_From_Event_Logs.ps1](Search_Keyword_From_Event_Logs.ps1)
 
-* ANA (Ask 🥷 Anything)
